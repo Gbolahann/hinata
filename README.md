@@ -1,0 +1,2 @@
+# hinata
+Tea testnet
